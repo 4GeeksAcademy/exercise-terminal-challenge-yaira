@@ -12,4 +12,3 @@ cd /workspaces/exercise-terminal-challenge-yaira/thecmdchallenge/boringfolder/ev
 cp thecmdchallenge/boringfolder/event-more-boring/i-can-believe-how-boring/the-ulrimate-boring-inception/the-mostboring-text.txt
 the-mostboring-text.txt
 
-lol.txt is 
